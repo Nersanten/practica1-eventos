@@ -2,10 +2,11 @@
 ### Lanza 1.1 y 1.2, copia el "_id" de cada recinto y pégalo abajo (sin comillas).
 ### Lanza 2.1, copia el "_id" del evento y pégalo en @idEvento. El resto ya los usa solos.
 
-@baseUrl = http://localhost:8080
-@idRecinto1 = 6afc373124ccddb6aa9fec13
-@idRecinto2 = 6afc374824ccddb6aa9fec14
-@idEvento = 6afc390924ccddb6aa9fec30
+# @baseUrl = http://localhost:8080
+@baseUrl = https://practica1-eventos.onrender.com
+@idRecinto1 = 6afc42f5bf4bb3ab0fae6ddd
+@idRecinto2 = 6afc43cbbf4bb3ab0fae6dde
+@idEvento = 6afc488ebf4bb3ab0fae6df5
 
 ### ==============================================================================
 ### 1. RECINTOS (Creación, listados y consultas)
